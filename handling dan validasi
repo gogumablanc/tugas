@@ -1,0 +1,3 @@
+1. Form Handling adalah proses menerima dan mengolah data yang dikirimkan pengguna melalui formulir HTML menggunakan PHP, misalnya mengambil data nama dan email dengan metode GET atau POST.
+
+2. Validasi Form adalah proses memeriksa data yang dimasukkan pengguna untuk memastikan data tersebut sesuai dengan ketentuan, misalnya memastikan kolom nama tidak kosong dan format email benar.
