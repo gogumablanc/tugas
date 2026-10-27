@@ -1,0 +1,3 @@
+MySQL adalah sistem manajemen basis data yang digunakan untuk menyimpan dan mengelola data. Dalam PHP, ekstensi lama bernama mysql sudah tidak digunakan lagi sejak PHP 7.
+
+MySQLi (MySQL Improved) adalah ekstensi PHP untuk menghubungkan program PHP dengan database MySQL. MySQLi mendukung fitur yang lebih modern, seperti prepared statements untuk membantu mencegah SQL injection, serta mendukung pemrograman prosedural dan berorientasi objek.
