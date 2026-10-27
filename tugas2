@@ -1,0 +1,4 @@
+include: Memasukkan file PHP lain ke dalam program. Jika file tidak ditemukan, program akan menampilkan peringatan, tetapi program tetap berjalan.
+require: Memasukkan file PHP lain. Jika file tidak ditemukan, program akan mengalami kesalahan fatal sehingga proses program berhenti.
+include_once: Sama seperti include, tetapi file hanya dimasukkan satu kali meskipun dipanggil berulang kali.
+require_once: Sama seperti require, tetapi file hanya dimasukkan satu kali. Jika file tidak ditemukan, program akan berhenti.
